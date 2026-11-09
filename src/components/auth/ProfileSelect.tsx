@@ -167,7 +167,7 @@ export const ProfileSelect: React.FC<ProfileSelectProps> = ({
                   >
                     {p.name}
                   </p>
-                  <p className="mt-0.5 hidden text-[10px] text-white/35 sm:block">
+                  <p className="mt-0.5 text-[10px] text-white/35 sm:block">
                     {p.sub}
                   </p>
                 </div>
