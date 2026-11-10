@@ -165,7 +165,7 @@ export const FinalSeal: React.FC<{ label?: string; question?: string }> = ({
               {question}
             </h2>
             <p className="mx-auto mt-4 max-w-md text-[13.5px] leading-relaxed text-white/55">
-              No deadline, no rush, no wrong answer. Just me, hoping the next
+              No deadline, no cage of expectations, no rush, no wrong answer. Just me, hoping the next
               season has your name in the credits.
             </p>
 
