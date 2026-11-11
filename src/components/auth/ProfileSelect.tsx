@@ -77,7 +77,7 @@ export const ProfileSelect: React.FC<ProfileSelectProps> = ({
             </span>
           </h1>
           <p className="mx-auto mt-4 max-w-md text-[13px] leading-relaxed text-white/65 sm:mt-5 sm:text-[15px]">
-            Every good thing that happened to us, on this single site, since, we met, since, my eyes got stuck on your beauty.
+            Every good thing that happened to us on this single site, since the day we met and my eyes got stuck on your beauty.
           </p>
         </div>
 
